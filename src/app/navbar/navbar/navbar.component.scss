@@ -1,0 +1,22 @@
+.dark-navbar{
+    background-color: #17171E;
+}
+
+.top-nav{
+  padding: 1em 0.5em;
+}
+
+.top-nav-item{
+  padding-left: 14px;
+  padding-right: 14px;
+}
+
+.left-navbar{
+  display: flex;
+  align-items: center;
+  padding-left: 180px;
+}
+
+.left-navbar > * {
+  padding: 0 12px;
+}

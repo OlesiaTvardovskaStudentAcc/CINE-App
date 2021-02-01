@@ -1,0 +1,27 @@
+input[type=text]{
+    width: 678px;
+    height: 35px;
+    padding-right: 40px;
+    border-radius: 25px;
+    border: 1px solid transparent;
+    background-color: #707070;
+    font-family: muli, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    background-position: center left 635px;
+    background-image: url(../../../assets/search.png);
+    background-size: 1.3em;
+    background-repeat: no-repeat;
+}
+input:focus{
+    outline: none !important;
+}
+
+::placeholder {
+    color: #ffffff;
+    opacity: 0.4;
+  }
+form{
+    padding-left: 50px;
+}
